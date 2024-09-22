@@ -29,6 +29,9 @@
 
     --tridactyl-of-bg: #223249;
     --tridactyl-photon-colours-accent-1: #7FB4CA;
+
+    --tridactyl-hintspan-fg: #98BB6C;
+    --tridactyl-hintspan-bg: #1F1F28;
 }
 
 :root #command-line-holder {
